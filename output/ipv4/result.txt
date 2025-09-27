@@ -1,26 +1,26 @@
 🕘️更新时间,#genre#
-2025-09-26 06:19:13,http://183.222.242.31:8088/hls/1/index.m3u8
+2025-09-28 06:20:35,http://60.16.0.216:5757/hls/2/index.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://183.222.242.31:8088/hls/1/index.m3u8
-CCTV-2,http://183.222.242.31:8088/hls/2/index.m3u8
-CCTV-3,http://183.222.242.31:8088/hls/3/index.m3u8
+CCTV-2,http://60.16.0.216:5757/hls/2/index.m3u8
+CCTV-3,http://60.16.0.216:5757/hls/3/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://183.222.242.31:8088/hls/4/index.m3u8
-CCTV-5,http://183.222.242.31:8088/hls/5/index.m3u8
-CCTV-5+,http://183.222.242.31:8088/hls/16/index.m3u8
-CCTV-6,http://183.222.242.31:8088/hls/6/index.m3u8
-CCTV-7,http://183.222.242.31:8088/hls/7/index.m3u8
-CCTV-8,http://183.222.242.31:8088/hls/8/index.m3u8
-CCTV-9,http://183.222.242.31:8088/hls/9/index.m3u8
-CCTV-10,http://183.222.242.31:8088/hls/10/index.m3u8
-CCTV-11,http://183.222.242.31:8088/hls/11/index.m3u8
-CCTV-12,http://183.222.242.31:8088/hls/12/index.m3u8
-CCTV-13,http://183.222.242.31:8088/hls/13/index.m3u8
-CCTV-14,http://183.222.242.31:8088/hls/14/index.m3u8
-CCTV-15,http://183.222.242.31:8088/hls/15/index.m3u8
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CCTV-4,http://60.16.0.216:5757/hls/4/index.m3u8
+CCTV-5,http://60.16.0.216:5757/hls/5/index.m3u8
+CCTV-6,http://60.16.0.216:5757/hls/7/index.m3u8
+CCTV-7,http://60.16.0.216:5757/hls/8/index.m3u8
+CCTV-8,http://60.16.0.216:5757/hls/9/index.m3u8
+CCTV-9,http://60.16.0.216:5757/hls/10/index.m3u8
+CCTV-11,http://110.177.144.22:9003/hls/12/index.m3u8
+CCTV-11,http://60.16.0.216:5757/hls/12/index.m3u8
+CCTV-12,http://60.16.0.216:5757/hls/13/index.m3u8
+CCTV-13,http://60.16.0.216:5757/hls/14/index.m3u8
+CCTV-15,http://111.227.196.164:9901/tsfile/live/0015_1.m3u8
+CCTV-15,http://110.177.144.22:9003/hls/16/index.m3u8
+CCTV-16,http://60.16.0.216:5757/hls/17/index.m3u8
+CCTV-17,http://60.16.0.216:5757/hls/18/index.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
@@ -43,30 +43,27 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 
 📡卫视频道,#genre#
-江苏卫视,http://183.222.242.31:8088/hls/19/index.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://183.222.242.31:8088/hls/20/index.m3u8
-湖南卫视,http://183.222.242.31:8088/hls/18/index.m3u8
+江苏卫视,http://60.16.0.216:5757/hls/24/index.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://183.222.242.31:8088/hls/28/index.m3u8
-黑龙江卫视,http://183.222.242.31:8088/hls/26/index.m3u8
-安徽卫视,http://183.222.242.31:8088/hls/32/index.m3u8
-东方卫视,http://183.222.242.31:8088/hls/21/index.m3u8
+湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8
+黑龙江卫视,http://60.16.0.216:5757/hls/35/index.m3u8
+安徽卫视,http://60.16.0.216:5757/hls/31/index.m3u8
+东方卫视,http://60.16.0.216:5757/hls/23/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://183.222.242.31:8088/hls/30/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://183.222.242.31:8088/hls/35/index.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://183.222.242.31:8088/hls/23/index.m3u8
-辽宁卫视,http://183.222.242.31:8088/hls/34/index.m3u8
+广东卫视,http://60.16.0.216:5757/hls/20/index.m3u8
+辽宁卫视,http://60.16.0.216:5757/hls/32/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://183.222.242.31:8088/hls/25/index.m3u8
-四川卫视,http://183.222.242.31:8088/hls/17/index.m3u8
+山东卫视,http://60.16.0.216:5757/hls/27/index.m3u8
+深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8
 
 😊江苏频道,#genre#
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -92,17 +89,16 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 🎬电影频道,#genre#
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
-靖天戏剧,http://220.132.15.209:5008/li-4gtv-4gtv058/index.m3u8
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 经典电影,http://lxajh.top/tv/douyu.php?id=74374
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
@@ -114,6 +110,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 
 🏛经典剧场,#genre#
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 
 ❤北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -127,6 +124,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
@@ -137,18 +135,23 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🈳无结果频道,#genre#
-CCTV-16,url
-CCTV-17,url
-深圳卫视,url
+CCTV-1,url
+CCTV-5+,url
+CCTV-10,url
+CCTV-14,url
+湖南卫视,url
+四川卫视,url
 江苏城市,url
 江苏影视,url
 江苏教育,url
@@ -211,7 +214,6 @@ CCTV-15,url
 上海滩,url
 射雕英雄传,url
 庆余年,url
-琅琊榜,url
 北京卡酷少儿,url
 上海外语,url
 上海教育,url
